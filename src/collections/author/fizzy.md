@@ -7,7 +7,7 @@ bio: This is the bio of the author, and I'm tring to make it longer enough so it
   see the final result.
 more:
   website: https://fizzy.cc
-  github: "http://github.com/huangyuzhang/fizzy-theme/"
-  location: London, UK
+  github: http://github.com/huangyuzhang/fizzy-theme/
+  location: Seattle, WA
   twitter: https://twitter.com
 ---
