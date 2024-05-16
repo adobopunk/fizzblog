@@ -89,7 +89,7 @@ line 2 of code
 line 3 of code
 ```
 
-Block code "fences"
+Block code "fences"[^2]
 
 ```
 Sample text here...
@@ -119,7 +119,7 @@ function addTwoNumbers (num1, num2) {
 Use `$` and `$$` mark to define Latex equations:
 
 * `$ e = mc $` will be rendered as: $ e = mc $
-* `$$ c = \\pm\\sqrt{a^2 + b^2} $$` will be rendered as: $$ c = \\pm\\sqrt{a^2 + b^2} $$
+* `$$ c = \\pm\\sqrt{a^2 + b^2} $$` will be rendered as: $$ c = \pm\sqrt{a^2 + b^2} $$
 
 ## Tables
 
@@ -145,6 +145,8 @@ Here is a footnote reference [^1], and another [^longnote].
 [^longnote]: Here's one with multiple blocks.
   Subsequent paragraphs are indented to show that they
   belong to the previous footnote.
+
+[﻿^2}: My balls
 
 ## Images
 
