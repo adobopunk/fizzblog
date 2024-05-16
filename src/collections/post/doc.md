@@ -7,7 +7,7 @@ authors:
 tags:
   - doc
   - data
-image: /static/img/mge-screenshot-002.jpg
+image: /static/img/img_0319.jpg
 isFeatured: true
 toc: true
 description: The document of the Fizzy Jam. Read it before you kickoff.
