@@ -12,7 +12,7 @@ backend:
   # ideal for personal or small group sites
   # https://www.netlifycms.org/docs/github-backend/
   name: github
-  repo: <github_user>/<repo> # e.g.: huangyuzhang/Fizzy-Jam
+  repo: adobopunk/fizzblog # e.g.: huangyuzhang/Fizzy-Jam
   branch: main
 
 # uncomment to use local backend for testing (/admin)
