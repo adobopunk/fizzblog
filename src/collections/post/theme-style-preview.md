@@ -146,7 +146,7 @@ Here is a footnote reference [^1], and another [^longnote].
   Subsequent paragraphs are indented to show that they
   belong to the previous footnote.
 
-[﻿^2}: My balls
+\[﻿^2]: My balls
 
 ## Images
 
